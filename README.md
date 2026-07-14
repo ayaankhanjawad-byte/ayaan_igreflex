@@ -117,17 +117,6 @@ Smart waste complaint management platform designed to streamline complaint regis
 
 ---
 
-# GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayaankhanjawad-byte&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayaankhanjawad-byte&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
 
 # LeetCode
 
