@@ -14,7 +14,9 @@ Computer Science Engineering Student
 
 Computer Science Engineering student with a strong interest in software engineering, backend development, and scalable application development.
 
-Passionate about building reliable software, solving algorithmic problems, and continuously improving engineering skills through practical development and problem solving.
+Currently working as a **Software Engineering Intern at Terralogic**, gaining practical experience in enterprise software development and modern engineering practices.
+
+Passionate about designing reliable applications, solving algorithmic problems, and continuously improving software engineering skills.
 
 ---
 
@@ -23,11 +25,11 @@ Passionate about building reliable software, solving algorithmic problems, and c
 ## Software Engineering Intern
 **Terralogic**
 
-- Contributed to backend development using ASP.NET Core (.NET 8).
-- Worked with REST APIs and CRUD operations.
-- Collaborated using Git and GitHub in a professional development workflow.
-- Followed software engineering best practices including clean code and modular development.
-- Gained experience working on enterprise software development practices.
+- Contributed to backend development using **ASP.NET Core (.NET 8)**.
+- Developed and maintained **RESTful APIs** supporting CRUD operations.
+- Worked with Git and GitHub in a collaborative software development environment.
+- Followed clean coding principles and modular application architecture.
+- Gained practical exposure to enterprise software development workflows.
 
 ---
 
@@ -42,8 +44,8 @@ Passionate about building reliable software, solving algorithmic problems, and c
 - JavaScript
 - TypeScript
 - SQL
-- HTML
-- CSS
+- HTML5
+- CSS3
 
 ## Frontend
 
@@ -53,10 +55,10 @@ Passionate about building reliable software, solving algorithmic problems, and c
 
 ## Backend
 
+- ASP.NET Core (.NET 8)
 - Flask
-- .NET (CRUD Operations)
 - REST APIs
-- Spring Boot(Learning)
+- MVC Architecture
 
 ## Databases
 
@@ -110,7 +112,7 @@ Flask, Python, SQLite, HTML, CSS
 
 ## KARTHA
 
-Waste complaint management platform developed to streamline complaint registration and administrative workflow.
+Smart waste complaint management platform designed to streamline complaint registration and administrative workflow.
 
 ---
 
@@ -118,9 +120,9 @@ Waste complaint management platform developed to streamline complaint registrati
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayaankhanjawad-byte&show_icons=true&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayaankhanjawad-byte&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayaankhanjawad-byte&layout=compact&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayaankhanjawad-byte&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -142,18 +144,18 @@ Waste complaint management platform developed to streamline complaint registrati
 
 # Profiles
 
-GitHub
+**GitHub**
 
 https://github.com/ayaankhanjawad-byte
 
-LinkedIn
+**LinkedIn**
 
 https://linkedin.com/in/ayaankhantech
 
-LeetCode
+**LeetCode**
 
 https://leetcode.com/u/ayaan_igreflex
 
-Email
+**Email**
 
 ayaankhanjawad@gmail.com
