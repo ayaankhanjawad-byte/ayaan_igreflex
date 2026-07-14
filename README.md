@@ -23,7 +23,7 @@ Passionate about building reliable software, solving algorithmic problems, and c
 ## Software Engineering Intern
 **Terralogic**
 
-- Contributed to backend development using .NET.
+- Contributed to backend development using ASP.NET Core (.NET 8).
 - Worked with REST APIs and CRUD operations.
 - Collaborated using Git and GitHub in a professional development workflow.
 - Followed software engineering best practices including clean code and modular development.
